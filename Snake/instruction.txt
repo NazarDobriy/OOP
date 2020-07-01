@@ -1,0 +1,5 @@
+This is the instraction of the game!
+1.The map, fruit(F), fence(#), snake(letter) are created.
+2.If you eat fruits, your snake will grow and the game score will increase.
+3.You don't go to the fence or eat your tail, so you will lose.
+4.If your snake fill all size of freeground(where dont situate # or F), you will win!
